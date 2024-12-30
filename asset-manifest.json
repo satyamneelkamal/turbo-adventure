@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/turbo-adventure/static/css/main.3d142bf2.css",
+    "main.js": "/turbo-adventure/static/js/main.a214e84d.js",
+    "index.html": "/turbo-adventure/index.html",
+    "main.3d142bf2.css.map": "/turbo-adventure/static/css/main.3d142bf2.css.map",
+    "main.a214e84d.js.map": "/turbo-adventure/static/js/main.a214e84d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d142bf2.css",
+    "static/js/main.a214e84d.js"
+  ]
+}
